@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "alert": "^5.0.10",
+    "body-parser": "^1.19.0",
+    "date-and-time": "^2.0.0",
+    "document": "^0.4.7",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http-server": "^13.0.0",
+    "mongoose": "^5.13.6",
+    "node-fetch": "^2.6.1",
+    "popups": "^1.1.3",
+    "server": "^1.0.34",
+    "window": "^4.2.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "iscore",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://soheilsc@github.com/soheilsc/iscore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soheilsc/iscore/issues"
+  },
+  "homepage": "https://github.com/soheilsc/iscore#readme"
+}
