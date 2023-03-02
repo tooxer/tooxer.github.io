@@ -15,10 +15,10 @@ $(function () {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "assets/images/logo_piveez_1.svg");
+            $(".navbar .navbar-brand img").attr("src", "assets/images/logo_bringtune_2.svg");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "assets/images/logo_piveez_2.svg");
+            $(".navbar .navbar-brand img").attr("src", "assets/images/logo_bringtune_1.svg");
         }
     });
 
