@@ -124,6 +124,29 @@ p {
   outline: 0; }
 
 /*===== All Button Style =====*/
+.bringtune-btn {
+  display: inline-block;
+  background-color: #7b38d8;
+  padding: 10px 0;
+  width: 110px;
+  color: #ffffff;
+  text-align: center;
+  border: 4px double #cccccc;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 5px;
+  -webkit-transition: all 0.5s; /* add this line, chrome, safari, etc */
+  -moz-transition: all 0.5s; /* add this line, firefox */
+  -o-transition: all 0.5s; /* add this line, opera */
+  transition: all 0.5s; /* add this line */
+}
+.bringtune-btn:hover {
+  background-color: green;
+}
+
+
+
 .main-btn {
   display: inline-block;
   font-weight: 500;
@@ -136,7 +159,8 @@ p {
   user-select: none;
   padding: 0 25px;
   font-size: 16px;
-  line-height: 48px;
+  line-height: 27px;
+  width: 110px;
   border-radius: 8px;
   border: 0;
   color: #FFFFFF;
@@ -147,9 +171,9 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background: -webkit-linear-gradient(left, #5B84E7 0%, #3d6fe3 50%, #5B84E7 100%);
-  background: -o-linear-gradient(left, #5B84E7 0%, #3d6fe3 50%, #5B84E7 100%);
-  background: linear-gradient(to right, #5B84E7 0%, #3d6fe3 50%, #5B84E7 100%);
+  background: -webkit-linear-gradient(left, #5685F8 0%, #3168E7 50%, #5685F8 100%);
+  background: -o-linear-gradient(left, #5685F8 0%, #3168E7 50%, #5685F8 100%);
+  background: linear-gradient(to right, #5685F8 0%, #3168E7 50%, #5685F8 100%);
   background-size: 200%; }
   .main-btn:hover {
     color: #fff;
