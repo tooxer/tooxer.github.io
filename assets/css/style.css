@@ -1375,14 +1375,13 @@ p {
     .subscribe-form input:focus {
       border-color: #361CC1; }
   .subscribe-form button {
-    background: -webkit-linear-gradient(left, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
-    background: -o-linear-gradient(left, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
-    background: linear-gradient(to right, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
+    background: -webkit-linear-gradient(left, #5685F8 0%, #3168E7 50%, #5685F8 100%);
+    background: -o-linear-gradient(left, #5685F8 0%, #3168E7 50%, #5685F8 100%);
+    background: linear-gradient(to right, #5685F8 0%, #3168E7 50%, #5685F8 100%);
     background-size: 200%; }
     .subscribe-form button:hover {
       color: #fff;
       background-position: right center; }
-
 /*===========================
        11.FOOTER  css 
 ===========================*/
