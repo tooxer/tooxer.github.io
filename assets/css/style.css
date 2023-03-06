@@ -860,7 +860,7 @@ p {
   -ms-transition: all 0.3s ease-out 0s;
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
-  padding: 50px 30px;
+  padding: 10px 10px;
   border: 2px solid transparent;
   border-radius: 8px; }
   @media (max-width: 767px) {

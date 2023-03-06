@@ -24,6 +24,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+/*Added by Soheil*/
+
+/*End*/
+
 .lni-add-file:before {
   content: "\e900";
 }
